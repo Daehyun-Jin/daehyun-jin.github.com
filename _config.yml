@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Daehyun-Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Datamining Lab., Statistics, Graduate student"
+  bio              : "Datamining Lab., Statistics, \Graduate student"
   location         : "Dongguk.Univ Seoul, South Korea"
   email            : "daehyunjin.statistics@gmail.com"
   links:
