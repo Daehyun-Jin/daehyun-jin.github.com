@@ -95,13 +95,14 @@ analytics:
 author:
   name             : "Daehyun-Jin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Datamining Lab., Statistics, \Graduate student"
+  bio              : "Datamining Lab., Statistics, 
+                      Graduate student"
   location         : "Dongguk.Univ Seoul, South Korea"
   email            : "daehyunjin.statistics@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:daehyunjin.statistics@gmail.com"
+      # url: "mailto:daehyunjin.statistics@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
